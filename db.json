@@ -1,0 +1,85 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ensaymada",
+      "brand": "Goldilocks",
+      "category": "Pastry",
+      "price": 25,
+      "description": "A soft, sweet bread topped with butter, sugar, and cheese.",
+      "imageFilename": "ensaymada.jpg",
+      "createdAt": "2024-08-30T08:00:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Pandesal",
+      "brand": "Pan de Manila",
+      "category": "Bread",
+      "price": 5,
+      "description": "A traditional Filipino bread roll that is slightly sweet.",
+      "imageFilename": "pandesal.jpg",
+      "createdAt": "2024-08-30T08:05:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Spanish Bread",
+      "brand": "Red Ribbon",
+      "category": "Bread",
+      "price": 15,
+      "description": "A soft bread filled with a sweet, buttery filling.",
+      "imageFilename": "spanish_bread.jpg",
+      "createdAt": "2024-08-30T08:10:00Z"
+    },
+    {
+      "id": 4,
+      "name": "Mamon",
+      "brand": "Goldilocks",
+      "category": "Cake",
+      "price": 20,
+      "description": "A light and fluffy chiffon cake.",
+      "imageFilename": "mamon.jpg",
+      "createdAt": "2024-08-30T08:15:00Z"
+    },
+    {
+      "id": 5,
+      "name": "Ube Cheese Pandesal",
+      "brand": "Pan de Manila",
+      "category": "Bread",
+      "price": 8,
+      "description": "A variation of pandesal filled with ube halaya and cheese.",
+      "imageFilename": "ube_cheese_pandesal.jpg",
+      "createdAt": "2024-08-30T08:20:00Z"
+    },
+    {
+      "id": 6,
+      "name": "Hopia",
+      "brand": "Eng Bee Tin",
+      "category": "Pastry",
+      "price": 30,
+      "description": "A flaky pastry filled with sweet mung bean or ube filling.",
+      "imageFilename": "hopia.jpg",
+      "createdAt": "2024-08-30T08:25:00Z"
+    },
+    {
+      "id": 7,
+      "name": "Bibingka",
+      "brand": "Ferino's Bibingka",
+      "category": "Rice Cake",
+      "price": 50,
+      "description": "A traditional Filipino rice cake baked in a clay pot, topped with cheese and salted egg.",
+      "imageFilename": "bibingka.jpg",
+      "createdAt": "2024-08-30T08:30:00Z"
+    },
+    {
+      "name": "Jana",
+      "brand": "Balla",
+      "category": "Other",
+      "price": "999999999999",
+      "description": "Maganda, sweet at cuteee, napakahusay sa spiritual at God-fearing, nakakainlovee 😍",
+      "imageFilename": "1725431464267_456868268_1259919385435967_9177109147272268309_n.jpg",
+      "createdAt": "2024-09-04T05:03:16.308Z",
+      "image": "1725426196298_456868268_1259919385435967_9177109147272268309_n.jpg",
+      "id": 46
+    }
+  ]
+}
